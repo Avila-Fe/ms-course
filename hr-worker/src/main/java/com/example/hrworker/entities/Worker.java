@@ -1,7 +1,6 @@
 package com.example.hrworker.entities;
 
-import jakarta.persistence.*;
-
+import javax.persistence.*;
 import java.io.Serial;
 import java.io.Serializable;
 @Entity
